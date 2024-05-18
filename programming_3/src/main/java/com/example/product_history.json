@@ -1,0 +1,52 @@
+[
+  {
+    "purchaseDate": "2024-05-15",
+    "productId": "101",
+    "customerId": "123"
+  },
+  {
+    "purchaseDate": "2024-05-14",
+    "productId": "456",
+    "customerId": "101"
+  },
+  {
+    "purchaseDate": "2024-05-11",
+    "productId": "890",
+    "customerId": "345"
+  },
+  {
+    "purchaseDate": "2024-05-10",
+    "productId": "001",
+    "customerId": "678"
+  },
+  {
+    "purchaseDate": "2024-05-10",
+    "productId": "987",
+    "customerId": "234"
+  },
+  {
+    "purchaseDate": "2024-05-10",
+    "productId": "567",
+    "customerId": "987"
+  },
+  {
+    "purchaseDate": "2024-05-09",
+    "productId": "890",
+    "customerId": "567"
+  },
+  {
+    "purchaseDate": "2024-05-08",
+    "productId": "101",
+    "customerId": "123"
+  },
+  {
+    "purchaseDate": "2024-05-06",
+    "productId": "234",
+    "customerId": "456"
+  },
+  {
+    "purchaseDate": "2024-05-06",
+    "productId": "890",
+    "customerId": "987"
+  }
+]
