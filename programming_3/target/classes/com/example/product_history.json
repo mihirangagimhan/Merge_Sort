@@ -1,52 +1,52 @@
 [
   {
     "purchaseDate": "2024-05-15",
-    "productId": "101",
-    "customerId": "123"
+    "productId": "P101",
+    "customerId": "C123"
   },
   {
     "purchaseDate": "2024-05-14",
-    "productId": "456",
-    "customerId": "101"
+    "productId": "P456",
+    "customerId": "C101"
   },
   {
     "purchaseDate": "2024-05-11",
-    "productId": "890",
-    "customerId": "345"
+    "productId": "P890",
+    "customerId": "C345"
   },
   {
     "purchaseDate": "2024-05-10",
-    "productId": "001",
-    "customerId": "678"
+    "productId": "P001",
+    "customerId": "C678"
   },
   {
     "purchaseDate": "2024-05-10",
-    "productId": "987",
-    "customerId": "234"
+    "productId": "P987",
+    "customerId": "C234"
   },
   {
     "purchaseDate": "2024-05-10",
-    "productId": "567",
-    "customerId": "987"
+    "productId": "P567",
+    "customerId": "C987"
   },
   {
     "purchaseDate": "2024-05-09",
-    "productId": "890",
-    "customerId": "567"
+    "productId": "P890",
+    "customerId": "C567"
   },
   {
     "purchaseDate": "2024-05-08",
-    "productId": "101",
-    "customerId": "123"
+    "productId": "P101",
+    "customerId": "C123"
   },
   {
     "purchaseDate": "2024-05-06",
-    "productId": "234",
-    "customerId": "456"
+    "productId": "P234",
+    "customerId": "C456"
   },
   {
     "purchaseDate": "2024-05-06",
-    "productId": "890",
-    "customerId": "987"
+    "productId": "P890",
+    "customerId": "C987"
   }
 ]
